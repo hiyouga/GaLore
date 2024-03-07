@@ -1,14 +1,9 @@
 torch
-transformers==4.31.0
+transformers
 tokenizers
 datasets
-peft
-wandb
-loguru
-nvitop
 lion-pytorch
 matplotlib
 bitsandbytes
 scipy
 scikit-learn
-evaluate
