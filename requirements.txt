@@ -1,9 +1,3 @@
 torch
 transformers
-tokenizers
-datasets
-lion-pytorch
-matplotlib
 bitsandbytes
-scipy
-scikit-learn
